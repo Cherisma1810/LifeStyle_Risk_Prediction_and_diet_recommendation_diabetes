@@ -221,7 +221,7 @@ There's a lot of room to grow this project. Some ideas on the roadmap:
 
 ## 👩‍💻 About the Author
 
-Built by **Cherisma Anamala** as part of academic research exploring the intersection of Artificial Intelligence, Machine Learning, and Healthcare Analytics.
+Built by **Anamala Muni Cherisma** as part of academic research exploring the intersection of Artificial Intelligence, Machine Learning, and Healthcare Analytics.
 
 📎 [GitHub Repository](https://github.com/Cherisma1810/LifeStyle_Risk_Prediction_and_diet_recommendation_diabetes)
 
