@@ -1,0 +1,2 @@
+# LifeStyle_Risk_Prediction_and_diet_recommendation_diabetes
+Using ANN and fuzzy Logic
